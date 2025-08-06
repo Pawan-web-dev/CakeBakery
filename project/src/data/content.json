@@ -1,0 +1,70 @@
+{
+  "brand": {
+    "name": "Pk Bakers",
+    "tagline": "United in taste, connecting people with sweets",
+    "phone": "+92 3240133166",
+    "whatsapp": "+923240133166",
+    "established": "1984"
+  },
+  "homepage": {
+    "hero": {
+      "mainTitle": "Delivering Happiness Since 1984",
+      "subtitle": "Karachi's Premier Bakery Online",
+      "description": "250+ delicious sweets, cakes, nimco & fast food items—all in one place"
+    }
+  },
+  "about": {
+    "intro": "From a small family bakery to Karachi's most trusted name in sweets and fast food, our journey has been one of dedication, quality, and love for what we do.",
+    "timeline": [
+      {
+        "year": "1984",
+        "title": "Humble Beginnings",
+        "description": "Started as a small neighborhood bakery with just 5 products"
+      },
+      {
+        "year": "1995",
+        "title": "Expansion",
+        "description": "Added traditional sweets and nimco to our offerings"
+      },
+      {
+        "year": "2005",
+        "title": "Modern Kitchen",
+        "description": "Upgraded to state-of-the-art equipment and larger facility"
+      },
+      {
+        "year": "2015",
+        "title": "Online Presence",
+        "description": "Launched delivery services across Karachi"
+      },
+      {
+        "year": "2024",
+        "title": "250+ Products",
+        "description": "Now serving the community with over 250 delicious items"
+      }
+    ],
+    "values": [
+      {
+        "title": "Quality Ingredients",
+        "description": "We source only the finest ingredients for all our products",
+        "icon": "✨"
+      },
+      {
+        "title": "Family Recipes",
+        "description": "Traditional recipes passed down through generations",
+        "icon": "👨‍👩‍👧‍👦"
+      },
+      {
+        "title": "Community-Focused Service",
+        "description": "Committed to serving our community with excellence",
+        "icon": "❤️"
+      }
+    ]
+  },
+  "microcopy": [
+    "Let's celebrate sweetness!",
+    "Kitchen-made with love",
+    "We deliver joy to your doorstep",
+    "Need help choosing a cake? Chat with us!",
+    "Freshly baked daily"
+  ]
+}
